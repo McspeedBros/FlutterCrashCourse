@@ -1,4 +1,4 @@
-# ystra_application
+# Flutter Crash Course
 
 A new Flutter project.
 
